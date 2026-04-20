@@ -3,7 +3,7 @@
 
 An interactive web application that simulates the complete
 Theory of Computation pipeline:
-**NFA → DFA (Subset Construction) → Minimized DFA (Hopcroft's Algorithm)**
+**NFA → DFA (Subset Construction) → Minimized DFA **
 
 Built as a Class Participation project for the
 Theory of Computation course — IIIT Sri City.
